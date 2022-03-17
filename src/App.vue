@@ -18,6 +18,9 @@ export default {
   components: {
     slick
   },
+  mounted() {
+    // skdsjdksjdn
+  },
 }
 </script>
 <style lang="scss">
